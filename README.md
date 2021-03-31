@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KavinduJayas" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduJayas" >
 
--📫 How to reach me: ...
-<br />
+### Contact me :speech_balloon:
+
 <a href="https://t.me/kavindujayas">
   <img align="left" alt="Kavindu Jayasooriya | Telegram" width="25px" src="https://telegram.org/img/t_logo.svg?1" />
 </a>
